@@ -16912,8 +16912,8 @@ body.index-sc h6 {
 }
 .header__sticky.fixed .header__logo--link img {
   filter: invert(100);
-  height: auto;
-  width: 200px;
+  /* height: auto;
+  width: 150px; */
 }
 .header__sticky.fixed .header__right--item .menu__trigger img {
   filter: invert(100);
@@ -17029,7 +17029,7 @@ body.index-sc h6 {
   right: 0;
   font-weight: 400;
   top: 5px;
-  padding: 8px 13px;
+  padding: 0px 0px;
   color: #fff;
   background: var(--rt-primary-2) !important;
   pointer-events: none;
